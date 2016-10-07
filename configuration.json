@@ -1,0 +1,18 @@
+{
+    "user":{
+        "name":"username",
+        "password":"password",
+        "provider":"ptc|google"
+    },
+    "wantedPokemon":
+        ["Charizard",
+        "Venusaur"],
+    "email":
+    {
+        "smtps":"",
+        "from": "",
+        "fromName": "",
+        "to": ""
+    },
+    "timelapse": 20000
+}
