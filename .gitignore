@@ -1,0 +1,4 @@
+node_modules
+.vscode/**
+configuration.json
+locations.json
